@@ -1,7 +1,7 @@
 # Project Description
 This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MySQL, and Postman.
-
-
+### Screenshots
+[Screenshots](https://github.com/tanvi3110/FlaskDockerPythonSql/tree/lesson3/screenshots)
 
 # Readings
 * [What is an HTTP API?](https://www.smashingmagazine.com/2018/01/understanding-using-rest-api/)
